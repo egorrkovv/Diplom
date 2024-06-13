@@ -1,1 +1,1 @@
-# Diplom
+# this is diplomnaya work
